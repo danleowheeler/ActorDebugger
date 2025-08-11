@@ -1,6 +1,6 @@
 # Actor Debugger UE Plugin
 
-Intended to demonstrate some Unreal Engine tool functionality.
+Intended to demonstrate some Unreal Engine tool functionality. Uses Slate UI and UE Type Reflection.
 
 To use, install into your project, regenerate your project files and build.
 
